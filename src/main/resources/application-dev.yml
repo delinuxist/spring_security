@@ -15,4 +15,4 @@ spring:
       ddl-auto: update
     show-sql: 'true'
 welcome:
-  message: Welcome to Spring Boot Dev!!
+  message: Welcome to Spring Security Api!!
