@@ -1,5 +1,8 @@
 server:
   port: 5000
+#  error:
+#    include-binding-errors: always
+#    include-message: always
   servlet:
     context-path: /api
 
